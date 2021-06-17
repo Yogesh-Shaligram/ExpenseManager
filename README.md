@@ -8,6 +8,4 @@
 - [x] On clicking the month card, detailed view for the month is displayed.
 - [x] The app calendar button in the menu bar opens a calendar view which displays the total/expense for a particular day.
 
-# Screenshots
-
 
