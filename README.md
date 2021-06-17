@@ -10,7 +10,4 @@
 
 # Screenshots
 
-Preview attachment Screenshot_20210617-214920.jpg
 
-Screenshot_20210617-214920.jpg
-218 KB
