@@ -7,3 +7,10 @@
 - [x] Once the expense for the month is added, a month card gets added to the screen automatically.
 - [x] On clicking the month card, detailed view for the month is displayed.
 - [x] The app calendar button in the menu bar opens a calendar view which displays the total/expense for a particular day.
+
+# Screenshots
+
+Preview attachment Screenshot_20210617-214920.jpg
+
+Screenshot_20210617-214920.jpg
+218 KB
